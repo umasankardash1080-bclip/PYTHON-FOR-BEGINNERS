@@ -1,0 +1,1 @@
+even is you not written a single line of python until now you can learn from this and its a beginner friendly repository that helps freshers to learn python very first and so then lets coding together with enjoying and support each other
